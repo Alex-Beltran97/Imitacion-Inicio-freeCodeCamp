@@ -31,6 +31,11 @@ h1 {
 	height: 29px;
 }
 
+#logotype::selection {
+	width: 53px;
+	height: 29px;
+}
+
 header{
 	background-color: black;
 }
