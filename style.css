@@ -132,3 +132,8 @@ nav button:hover{
 	
 	background-color: #fecc4c;
 }
+
+center figcaption {
+	font-size: 23px;
+	font-family: sans-serif;
+}
