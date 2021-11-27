@@ -140,3 +140,8 @@ center figcaption {
 center figcaption::selection {
 	background: #ABBAE0;
 }
+
+.texto.titulo {
+	font-size: 45px;
+	font-family: sans-serif;
+}
