@@ -137,3 +137,6 @@ center figcaption {
 	font-size: 23px;
 	font-family: sans-serif;
 }
+center figcaption::selection {
+	background: #ABBAE0;
+}
